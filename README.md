@@ -1,2 +1,2 @@
 # Research-Project
-The data, plot, and code for Research Project  
+The data and plot for Research Project 
